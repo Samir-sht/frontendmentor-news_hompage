@@ -268,11 +268,11 @@ nav span {
     text-align: end;
   }
   nav span img#menu-open {
-    position: fixed;
+    position: absolute;
     z-index: 100;
-    top: 50px;
+    top: 0px;
     right: 20px;
-    transform: translate(0px, 0px);
+    transform: translate(0px, -5px);
   }
 
   nav span img#close {
@@ -281,7 +281,7 @@ nav span {
     top: 40px;
     right: 20px;
     display: none;
-    transform: translate(0px, 0px);
+    transform: translate(-20px, 10px);
   }
 
   .middle-part {
