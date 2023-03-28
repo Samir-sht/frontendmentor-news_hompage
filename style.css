@@ -103,7 +103,7 @@ nav span {
   gap: 1.5rem;
 }
 
-.middle-part .left-side .left-side-content .left-part h1 {
+.middle-part .left-side .left-side-content .left-part h2 {
   font-size: 3rem;
   color: var(--very_dark_blue);
   font-weight: var(--font_extrabold);
