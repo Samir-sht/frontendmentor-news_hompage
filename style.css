@@ -125,19 +125,16 @@ nav span {
   outline: none;
   background-color: var(--soft_red);
   transition: 0.5s ease;
-}
-
-.middle-part .left-side .left-side-content .right-part button:hover {
-  cursor: pointer;
-  background-color: var(--very_dark_blue);
-}
-
-.middle-part .left-side .left-side-content .right-part a {
   font-size: 1.125rem;
   color: var(--off_white);
   text-transform: uppercase;
   font-weight: var(--font_bold);
   letter-spacing: 4px;
+}
+
+.middle-part .left-side .left-side-content .right-part button:hover {
+  cursor: pointer;
+  background-color: var(--very_dark_blue);
 }
 
 /*middle-part right-side*/
